@@ -2,7 +2,7 @@
 
 My name is samwashington. I've been a developer since 2013.
 
-Most of the projects I've worked on for my own sake are centered around ideological representation, specifically as it can relate to self-directed learning.
+Most of the projects I've worked on for my own sake are centered around ideological representation.
 
 ## I like Language
 
