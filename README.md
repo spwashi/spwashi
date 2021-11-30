@@ -10,7 +10,7 @@ I'm looking for a job now. Generally, I'm not picky about the language used, as 
 
 ## My projects
 
-The biggest project I've been working on is a language called Spw. I'll be releasing version 1.0.0 on my birthday, Jan 1.
+The most involvd personal project I've been working on is a language called Spw. I'll be releasing version 1.0.0 on my birthday, Jan 1.
 
 
 
