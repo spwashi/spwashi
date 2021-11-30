@@ -10,7 +10,9 @@ I believe that having access to [language](https://en.wikipedia.org/wiki/Physica
 
 For the past four years, I've been exploring this concept in the domain of self-directed learning.
 
-This exploration has culminated in a language project that I'm pretty excited to have presentable (soon). It's served as a pretty good excuse to dig into other languages and ecosystems.
+This exploration has culminated in a language project that I'm pretty excited to have presentable (soon). 
+
+It's served as a good excuse to dig into other languages and ecosystems.
 
 ## Hire me
 
