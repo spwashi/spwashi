@@ -1,19 +1,26 @@
 # Hello.
+My name is samwashington. I've been a developer since 2013.
 
-My name is samwashington. 
+Most of the projects I've worked on for my own sake are centered around ideological representation.
 
+## I like Language
+I believe that having access to language is foundational to understanding the world.
 
-<!--
-**spwashi/spwashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For the past four years, I've been exploring this concept in the domain of self-directed learning.
 
-Here are some ideas to get you started:
+This exploration has culminated in a language project that I'm pretty excited to develop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's served as a good excuse to dig into other languages and ecosystems.
+
+## My favorite projects
+
+I'm working on a project that IMO is *pretty neat*. 
+It's called [Boon Land](https://boon.land). 
+
+Unfortunately I can't say tooo much about Boon Land, since part of its concept os the story of development. More on this later!
+
+## Also!
+
+I'm looking for a job. Hiring me is a _very cool_ and _very good_ thing to do.
+
+about the language used, as I'm mainly interested in what can be done with them.
